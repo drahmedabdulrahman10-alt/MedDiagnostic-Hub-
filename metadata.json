@@ -1,0 +1,6 @@
+{
+  "name": "Medical Study Diagnostic Tracker",
+  "description": "Self-diagnostic study tracker and analytics for medical students with sub-topic mastery rating, bulk topic import, exam countdown, weak topic triage, and bilingual AR/EN support.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
